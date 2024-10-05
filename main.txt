@@ -1,2 +1,3 @@
 Nama  : Sultan Abdul Malik
 Kelas : IF B 22
+NPM   : 552012017
